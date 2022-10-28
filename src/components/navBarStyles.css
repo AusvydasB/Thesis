@@ -1,0 +1,65 @@
+/* .tekstas{
+    justify-content: center;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    border: solid 1px red;
+    margin: auto;
+    margin-top: 10px    ;
+} */
+
+.lengvas{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 150px;
+    /* border: solid 2px goldenrod; */
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lengvas2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-left: 4px;
+    
+}
+
+.searchtext{
+    padding-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+ .navbarcontainer{
+  background-color: #f2f1f0;
+    border: solid 2px;
+    border-radius: 20px; 
+}
+
+ .Yesim{
+    margin-left: 20px;
+    /* padding-right: 500px; */
+}
+
+.sticky-top{
+    /* background-color: #f2f1f0; */
+    display: inline;
+}  
+
+.inputas{
+    margin-left: 50px;
+    border: solid 2px red;
+    width: 70%;
+}
+
+.pagrindinis{
+    background-color: #f2f1f0;
+    border-radius: 20px;
+    border: solid 2px grey;
+    padding: 10px;
+    
+}
