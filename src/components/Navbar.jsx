@@ -28,10 +28,10 @@ function ColorSchemesExample() {
             
               <Nav className='lengvas' style={{margin: 'auto', width: '70%'}} >
                     <Navbar.Brand className='Yesim'>Ceramic-Studio</Navbar.Brand>
-                    <Nav.Link href="/#">Home</Nav.Link>
-                    <Nav.Link href="/#/About">About</Nav.Link>
-                    <Nav.Link href="/#/FAQ">FAQ</Nav.Link>
-                    <Nav.Link href="/#/Shipping">Shipping</Nav.Link>      
+                    <Nav.Link href="/thesis/#">Home</Nav.Link>
+                    <Nav.Link href="#/About">About</Nav.Link>
+                    <Nav.Link href="#/FAQ">FAQ</Nav.Link>
+                    <Nav.Link href="#/Shipping">Shipping</Nav.Link>      
               </Nav>
           </Col>
      </Container>    
